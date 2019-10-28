@@ -1,0 +1,3 @@
+﻿  Материк.cpp
+C:\Users\User\source\repos\Материк\Материк.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Материк.vcxproj -> C:\Users\User\source\repos\Материк\Debug\Материк.exe

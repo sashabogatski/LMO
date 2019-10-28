@@ -1,0 +1,4 @@
+﻿  Шифр.cpp
+C:\Users\User\source\repos\Шифр\Шифр.cpp(21,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Шифр\Шифр.cpp(34,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Шифр.vcxproj -> C:\Users\User\source\repos\Шифр\Debug\Шифр.exe
